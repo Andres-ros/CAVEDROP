@@ -1,4 +1,4 @@
-# CAVEDROP
+# Drop counter CAVEDROP
 Drop counter for speleothems in caves
 CAVEDROP
 Andrés Ros
