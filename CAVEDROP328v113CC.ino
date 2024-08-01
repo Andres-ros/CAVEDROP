@@ -3,7 +3,7 @@
 // Bajo licencia Creative Commons CC BY-NC-SA 4.0
 // sistema para la detección de impactos, utilizado como contador de gotas en espeleotemas de cavidades
 // Se puede programar por medio de interruptores el total de gotas por minutos, cada 10 minutos o 1 hora
-// materiales: Atmega328PB, modulo reloj DS3231, Sensor piezoelectrico, OpenLog mini SD, DIP 4 , Baterias AA x3, resistencia 1M, led.
+// materiales: Atmega328PB Pro Mini, modulo reloj DS3231, Sensor piezoelectrico, OpenLog mini SD, DIP 4 , Baterias AA x3, resistencia 1M, led.
 // El sensor piezoelectrico detecta los impactos que son procesados en el Atmega328PB generando un registro con fecha, hora:minuto, total gotas periodo tiempo seleccionado (1mn, 10mn, 1h).
 // La sesiblidad del sensor piezoelectrico puede ser ajustada.
 // Se incluye la libreria SoftwareSerial.h para desvincular los pines Xt y RX para no interferir entre OpenLog y cargas o revisiones del programa
